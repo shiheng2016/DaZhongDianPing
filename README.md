@@ -4,7 +4,7 @@
 ## 使用方法
 
 ``` bash
-git clone 
+git clone https://github.com/shiheng2016/DaZhongDianPing.git
 npm install
 npm run mock 启动mock服务
 npm run start 开发环境localhost:8080
